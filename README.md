@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
+## Install Node.js
+`https://nodejs.org/en` and download most recent version
+
+## Install Angular
+`https://angular.io/guide/setup-local` follow directions on this site.
+
+# To Run The Project:
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
