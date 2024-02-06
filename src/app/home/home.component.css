@@ -11,8 +11,7 @@
 */
 
 .button{
-    height: 40px;
-    width: 200px;
+    width: 70%;
     padding: 4px;
     margin: 10px;
     cursor:pointer;
@@ -35,12 +34,13 @@
 }
 
 #box{
-    width: flex;
-    top: 20%;
-    left: 40%;
+    display: block;
+    width: 30%;
     height: flex;
     border-radius: 8px;
-    margin: 40px;
+    top: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
     padding: 40px;
     position: fixed;
     background: #f2f1f1; /* Old browsers */
